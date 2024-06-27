@@ -1,2 +1,2 @@
 Name : Natee
-Gender : male
+Sex : Meal
